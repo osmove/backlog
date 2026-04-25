@@ -28,7 +28,7 @@
     "@fastify/cors": "^10.0.0",
     "@backlog/schemas": "workspace:*",
     "better-sqlite3": "^11.5.0",
-    "drizzle-orm": "^0.36.0",
+    "drizzle-orm": "^0.45.2",
     "fastify": "^5.0.0",
     "zod": "^3.24.4"
   },
