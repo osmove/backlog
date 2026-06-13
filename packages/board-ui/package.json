@@ -13,8 +13,8 @@
   },
   "dependencies": {
     "@tanstack/svelte-query": "^5.62.0",
-    "svelte": "^5.16.0",
-    "svelte-dnd-action": "^0.9.51"
+    "svelte": "^5.56.3",
+    "svelte-dnd-action": "^0.9.70"
   },
   "devDependencies": {
     "@sveltejs/vite-plugin-svelte": "^5.0.3",
