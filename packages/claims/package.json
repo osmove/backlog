@@ -11,6 +11,6 @@
   "dependencies": {
     "@backlog/config": "workspace:*",
     "@backlog/schemas": "workspace:*",
-    "picomatch": "^4.0.2"
+    "picomatch": "^4.0.5"
   }
 }
