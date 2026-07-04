@@ -39,7 +39,7 @@
     "openapi-typescript": "^7.6.0",
     "tsup": "^8.4.0",
     "typescript": "^5.8.3",
-    "vitest": "^4.1.5"
+    "vitest": "^4.1.9"
   },
   "author": "Jimmy Douieb",
   "license": "Apache-2.0",
